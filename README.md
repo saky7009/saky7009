@@ -1,7 +1,7 @@
 - 👋 Hi, I’m a bioinformatician passionate about bridging the gap between biology and computational science.
 - 👀 I’m interested in bioinformatics applications that utilize high-performance computing (HPC) with GPU acceleration.
 - 🌱 I’m currently working with machine learning and deep learning techniques.
-- 💞️ I’m seeking collaboration opportunities in the analysis of next-generation and third-generation genomics, transcriptomics, and epigenetics.
+- 💞️ I’m seeking collaboration opportunities in the analysis of next-generation and third-generation genomics, transcriptomics, and epigenomic sequencing analysis.
 - 📫 How to reach me ...saky7009@gmail.com
 - 😄 Pronouns: ...He or Him
 - ⚡ Fun fact: ...Breeding FIsh
